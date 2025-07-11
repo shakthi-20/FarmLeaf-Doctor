@@ -45,8 +45,11 @@ FarmLeaf Doctor is a smart plant health monitoring and disease detection system 
 
 ```bash
 pip install streamlit tensorflow pillow numpy pyserial
-'
-
-Run the app:
-
+```
+5.Run Code
+```bash
 streamlit run app.py
+```
+
+
+
