@@ -17,13 +17,15 @@ FarmLeaf Doctor is a smart plant health monitoring and disease detection system 
 ## 🔌 Circuit Diagrams
 
 ### 🌱 Soil & Environmental Sensing with ESP32
+```markdown
+![Alt Text](./WhatsApp Image 2025-04-22 at 2.38.46 AM.jpeg)
+---
 
-![Soil Moisture + DHT Sensor Circuit](./a09d273d-cfc7-4512-9321-5dd1639245c7.png)
 
 ### 📷 ESP32-CAM with FTDI Connection
 
-![ESP32-CAM with FTDI](./3d9d7a53-27bc-4537-a2b5-d517271200e7.png)
-
+```markdown
+![Alt Text](./WhatsApp Image 2025-04-22 at 2.32.31 AM.jpeg)
 ---
 
 ## 🧠 Features
